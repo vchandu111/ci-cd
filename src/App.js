@@ -16,7 +16,7 @@ const App = () => {
   // Function is called everytime decrement button is clicked
   const handleClick2 = () => {
     // Counter state is decremented
-    setCounter(counter - 2);
+    setCounter(counter - 4);
   };
 
   return (
